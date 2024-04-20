@@ -8,4 +8,4 @@ sli[at]cumt.edu.cn
 2023.08 - present, School of Education, CHNU.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Mental Health.
