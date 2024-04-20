@@ -5,7 +5,7 @@ She is currently pursuing a Master's Degree, CHNU.
 sli[at]cumt.edu.cn
 
 #### Education
-2023.08 - present, School of Education, China University of Mining and Technology.
+2023.08 - present, School of Education, CHNU.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
